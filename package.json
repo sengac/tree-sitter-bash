@@ -1,6 +1,6 @@
 {
   "name": "@sengac/tree-sitter-bash",
-  "version": "0.25.8",
+  "version": "0.25.9",
   "description": "Bash grammar for tree-sitter",
   "repository": "https://github.com/tree-sitter/tree-sitter-bash",
   "license": "MIT",
@@ -43,7 +43,7 @@
     "prebuildify": "^6.0.1"
   },
   "peerDependencies": {
-    "@sengac/tree-sitter": "^0.25.6"
+    "@sengac/tree-sitter": "^0.25.8"
   },
   "peerDependenciesMeta": {
     "@sengac/tree-sitter": {
